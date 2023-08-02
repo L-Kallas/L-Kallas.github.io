@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Leander Kallas"
 about:
   id: template-area
   template: jolla
@@ -10,33 +10,25 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/L-Kallas
 ---
-
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
-
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+Curator of the GEOROC database at the Department of Geochemistry and Isotope Geology, Geoscience Center, University of Göttingen
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Leander Kallas  
+Goldschmidtstraße 1 
+37077 Göttingen  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 176 45791565 
+E-Mail: leander.kallas [at] uni-goettingen.de
 
 ## Privacy
 
