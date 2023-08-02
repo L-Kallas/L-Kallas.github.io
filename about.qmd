@@ -23,11 +23,11 @@ Curator of the GEOROC database at the Department of Geochemistry and Isotope Geo
 
 Provider according to § 5 TMG is:  
 Leander Kallas  
-Goldschmidtstraße 1 
+Goldschmidtstraße 1  
 37077 Göttingen  
 Germany  
 
-Phone +49 176 45791565 
+Phone +49 176 45791565  
 E-Mail: leander.kallas [at] uni-goettingen.de
 
 ## Privacy
