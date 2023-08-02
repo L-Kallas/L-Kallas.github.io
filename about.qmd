@@ -2,7 +2,7 @@
 title: "Leander Kallas"
 about:
   id: template-area
-  template: jolla
+  template: broadside
   image: profile.png
   links:
     - icon: twitter
