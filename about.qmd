@@ -2,7 +2,7 @@
 title: "Leander Kallas"
 about:
   id: template-area
-  template: broadside
+  template: solana
   image: profile.png
   links:
     - icon: ResearchGate
