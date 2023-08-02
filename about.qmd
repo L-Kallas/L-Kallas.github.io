@@ -5,6 +5,9 @@ about:
   template: broadside
   image: profile.png
   links:
+    - icon: ResearchGate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Leander-Kallas
     - icon: twitter
       text: twitter
       href: https://twitter.com
